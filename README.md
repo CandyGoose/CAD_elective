@@ -17,4 +17,5 @@
 [8 - Создание чертежей](https://github.com/VeraKasianenko/CAD_elective/tree/main/practice8)
 
 <h3 style="text-align:center">Результат</h3>
+
 ![pic_result](https://github.com/VeraKasianenko/ITMO_Software_engineering/assets/112972833/dc5efd7c-37ef-43d7-ab08-3e61ef18e00a)
